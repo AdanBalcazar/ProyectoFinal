@@ -1,0 +1,16 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: El directorio intermedio (Release\) contiene archivos compartidos de otro proyecto (p3_01.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  ProyectoLab1.cpp
+d:\cuevas\documents\grafica\pro\proyecto-cgehic-20192\window.h(12): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\cuevas\documents\grafica\pro\proyecto-cgehic-20192\window.h(13): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+d:\cuevas\documents\grafica\pro\proyecto-cgehic-20192\proyectolab1.cpp(305): warning C4305: 'inicializando': truncamiento de 'double' a 'GLfloat'
+d:\cuevas\documents\grafica\pro\proyecto-cgehic-20192\proyectolab1.cpp(1650): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+d:\cuevas\documents\grafica\pro\proyecto-cgehic-20192\proyectolab1.cpp(1987): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+d:\cuevas\documents\grafica\pro\proyecto-cgehic-20192\proyectolab1.cpp(1992): warning C4305: '+=': truncamiento de 'double' a 'float'
+d:\cuevas\documents\grafica\pro\proyecto-cgehic-20192\proyectolab1.cpp(2000): warning C4305: '+=': truncamiento de 'double' a 'float'
+d:\cuevas\documents\grafica\pro\proyecto-cgehic-20192\proyectolab1.cpp(2006): warning C4305: '+=': truncamiento de 'double' a 'float'
+  Generando código
+  1 of 1194 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  p3_01.vcxproj -> D:\Cuevas\Documents\Grafica\Pro\Proyecto-CGeHIC-20192\Release\proyecto.exe

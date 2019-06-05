@@ -1,0 +1,13 @@
+        skyboxFaces.push_back("Textures/Skybox/sgod_noche1_ft.jpg");
+	skyboxFaces.push_back("Textures/Skybox/sgod_noche1_bk.jpg");
+	skyboxFaces.push_back("Textures/Skybox/sgod_dn.tga");
+	skyboxFaces.push_back("Textures/Skybox/sgod_noche1_up.jpg");
+	skyboxFaces.push_back("Textures/Skybox/sgod_noche1_rt.jpg");
+	skyboxFaces.push_back("Textures/Skybox/sgod_noche1_lf.jpg");
+	/*
+	skyboxFaces.push_back("Textures/Skybox/sgod_ft.tga");
+	skyboxFaces.push_back("Textures/Skybox/sgod_bk.tga");
+	skyboxFaces.push_back("Textures/Skybox/sgod_dn.tga");
+	skyboxFaces.push_back("Textures/Skybox/sgod_up.tga");
+	skyboxFaces.push_back("Textures/Skybox/sgod_rt.tga");
+	skyboxFaces.push_back("Textures/Skybox/sgod_lf.tga");
